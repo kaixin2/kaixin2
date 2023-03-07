@@ -1,10 +1,8 @@
 ### Hi, kaix here 👋
-
-[<img align="right" width="51%" src="https://github-readme-stats.vercel.app/api?username=kaixin2&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />]
+[![wakatime](https://wakatime.com/badge/user/16e81593-c1d1-4caf-b9db-afe1b7198789.svg)](https://wakatime.com/@16e81593-c1d1-4caf-b9db-afe1b7198789)
+<img align="right" width="51%" src="https://github-readme-stats.vercel.app/api?username=kaixin2&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 **About me:**
-
-<img src="https://wakatime.com/badge/user/70400143-077f-46cf-9ac2-ac211b28f700.svg" title="Total Code Time Since 2021.3.30"/>
 
 - 🌱 I’m currently learning Distributed and Java.
 - 🔭 Preparing for ......
