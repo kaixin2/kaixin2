@@ -14,7 +14,7 @@
 ### Using and learning📚
  <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
-<!-- <img align="right" width="51%" src="https://readme-card.imp2002.com/api/wakatime?username=imp2002&layout=compact&langs_count=8&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&custom_title=Week%20Code%20Time"/> -->
+
 
 #### langs:
 <!-- **Langs:** -->
