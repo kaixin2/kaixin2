@@ -12,8 +12,8 @@
 ---
 
 ### Using and learning📚
- 
 <img align="right" width="51%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kaixin2&layout=compact&langs_count=8&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&custom_title=Week%20Code%20Time"/>
+
 #### langs:
 <!-- **Langs:** -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
