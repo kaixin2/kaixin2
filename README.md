@@ -12,20 +12,8 @@
 ---
 
 ### Using and learning📚
- <!--START_SECTION:waka-->
-
-```text
-Java           27 hrs 55 mins  ███████████████████████▓░   94.54 %
-CSV/TSV        1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-C++            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-PHP            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Markdown       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-JavaScript     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-```
-
-<!--END_SECTION:waka-->
-
-
+ 
+<img align="right" width="51%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kaixin2&layout=compact&langs_count=8&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&custom_title=Week%20Code%20Time"/>
 #### langs:
 <!-- **Langs:** -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
